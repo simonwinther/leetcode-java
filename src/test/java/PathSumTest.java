@@ -12,7 +12,6 @@ class PathSumTest {
     void hasPathSumTest1() {
         PathSum sol = new PathSum();
 
-
         TreeNode seven = new TreeNode(7);
         TreeNode two = new TreeNode(2);
         TreeNode one = new TreeNode(1);
