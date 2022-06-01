@@ -18,6 +18,8 @@ dependencies {
 
     testCompileOnly 'org.projectlombok:lombok:1.18.22'
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.22'
+
+    implementation "io.vavr:vavr:0.10.4"
 }
 
 test {
