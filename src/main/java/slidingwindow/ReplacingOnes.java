@@ -1,3 +1,5 @@
+package slidingwindow;
+
 public class ReplacingOnes {
     public static int findLength(int[] arr, int k) {
         int windowStart = 0, maxLength = 0, onesCount = 0;

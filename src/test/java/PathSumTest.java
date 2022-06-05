@@ -1,9 +1,6 @@
-import com.sun.source.tree.Tree;
 import org.junit.jupiter.api.Test;
+import slidingwindow.PathSum;
 import utils.TreeNode;
-
-import java.util.ArrayList;
-import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 class PathSumTest {

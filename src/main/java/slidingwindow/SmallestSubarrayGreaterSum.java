@@ -1,3 +1,5 @@
+package slidingwindow;
+
 public class SmallestSubarrayGreaterSum {
     public static int findMinSubArray(int S, int[] arr) {
         int windowStart = 0;
